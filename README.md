@@ -17,16 +17,4 @@
 
 <br/>
 <br/>
-
-### 👩🏻‍💻 Project 👩🏻‍💻
-#### Football Favourite Sorter ⚽
-<a name="readme-top"></a>
-    <a href="http://leeseungeun.com/top100">Player Sorter</a>
-    ·
-    <a href="http://leeseungeun.com/fc">Team Sorter</a>
-    ·
-    <a href="http://leeseungeun.com">View Game List</a>
-</div>
-<br/>
-
 </div>
