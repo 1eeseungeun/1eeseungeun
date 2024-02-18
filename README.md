@@ -18,9 +18,8 @@ A front-end developer student 👩🏻‍💻
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <br>
 <br>
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=1eeseungeun&layout=compact&theme=white&v=2" alt="1eeseungeun"/></p>
-<br>
-<br>
-<br>
+
+## WORK STATS ⏲️
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=1eeseungeun"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=1eeseungeun&include_all_commits=true"></p>
 </div>
