@@ -20,6 +20,6 @@ A front-end developer student 👩🏻‍💻
 <br>
 
 ## WORK STATS ⏰
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=1eeseungeun"></p>
-
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=1eeseungeun&layout=compact"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=1eeseungeun&hide=stars"></p>
 </div>
